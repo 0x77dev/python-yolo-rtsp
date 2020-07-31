@@ -1,7 +1,7 @@
 #############################################
 # Object detection via RTSP - YOLO - OpenCV
-# Author : Frank Schmitz   (Dec 11, 2018)
-# Website : https://www.github.com/zishor
+# Author : Frank Schmitz       (Dec 11, 2018)
+# Author : Mikhail Marynenko   (2020)
 ############################################
 
 import os
